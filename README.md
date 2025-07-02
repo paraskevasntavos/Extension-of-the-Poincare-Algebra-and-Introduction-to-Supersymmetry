@@ -1,0 +1,1 @@
+This thesis explores the extension of the Poincaré algebra and introduces supersymmetry. It covers group theory, Lorentz/Poincaré groups, the N=1 SUSY algebra and the Wess–Zumino model, with detailed discussions on SUSY representations.
